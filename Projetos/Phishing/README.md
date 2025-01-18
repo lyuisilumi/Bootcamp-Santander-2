@@ -32,9 +32,9 @@ Identifique o endereço IP da sua máquina executando: ifconfig
 ### 5️⃣ URL para Clonagem
 Insira a URL do site a ser clonado quando solicitado pelo Setoolkit: http://www.facebook.com
 
-📊 Resultados
+### 📊 Resultados
 Após a execução do ataque, todas as credenciais capturadas serão exibidas no terminal. Este exercício destaca a vulnerabilidade de sites a ataques de phishing e reforça a necessidade de práticas de segurança como:
 
-Verificação de URLs.
-Uso de autenticação de dois fatores.
-Educação sobre cibersegurança para identificar sites falsos.
+-Verificação de URLs.
+-Uso de autenticação de dois fatores.
+-Educação sobre cibersegurança para identificar sites falsos.
