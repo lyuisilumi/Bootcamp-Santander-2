@@ -21,10 +21,10 @@ Inicie o Setoolkit com o seguinte comando: setoolkit
 
 ### 3️⃣ Configuração do Ataque
 Siga as etapas abaixo no Setoolkit:
-    Tipo de Ataque: Social-Engineering Attacks
-    Vetor de Ataque: Web Site Attack Vectors
-    Método de Ataque: Credential Harvester Attack Method
-    Método de Ataque: Site Cloner
+- Tipo de Ataque: Social-Engineering Attacks
+- Vetor de Ataque: Web Site Attack Vectors
+- Método de Ataque: Credential Harvester Attack Method
+- Método de Ataque: Site Cloner
 
 ### 4️⃣ Obtendo o Endereço da Máquina
 Identifique o endereço IP da sua máquina executando: ifconfig
@@ -35,6 +35,6 @@ Insira a URL do site a ser clonado quando solicitado pelo Setoolkit: http://www.
 ### 📊 Resultados
 Após a execução do ataque, todas as credenciais capturadas serão exibidas no terminal. Este exercício destaca a vulnerabilidade de sites a ataques de phishing e reforça a necessidade de práticas de segurança como:
 
--Verificação de URLs.
--Uso de autenticação de dois fatores.
--Educação sobre cibersegurança para identificar sites falsos.
+- Verificação de URLs.
+- Uso de autenticação de dois fatores.
+- Educação sobre cibersegurança para identificar sites falsos.
